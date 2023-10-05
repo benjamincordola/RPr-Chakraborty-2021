@@ -12,17 +12,16 @@ Author: Cordola, Benjamin
 3. Improve formatting of missing data table with Kable.
     On line 363, we display a table that shows Rio Arriba county and its missing data. For the sake of presentation, I transposed the rows and columns, so that it does not run off the page. I also separated the code block, so that I could display my table as I modified it, before deleting data that prevents the table from being generated. 
 4. Integrate discussion sections and any new results.
-    
 5. Separate conclusions section.
-6. 
+6. Change color ramp for RR map to be diverging. 
 
-
+<!--
 ## Results
 
-<!--Describe how changes will be visualized / compared here-->
+Describe how changes will be visualized / compared here
 
 ## Discussion
 
-<!--Describe how you will interpret the results of your changes here.
+Describe how you will interpret the results of your changes here.
 For example, in hypothetical terms, if my new/revised map shows ---, it will mean that ---. 
 -->
