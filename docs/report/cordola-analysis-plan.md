@@ -15,13 +15,6 @@ Author: Cordola, Benjamin
 5. Separate conclusions section.
 6. Change color ramp for RR map to be diverging. 
 
-<!--
 ## Results
 
-Describe how changes will be visualized / compared here
-
-## Discussion
-
-Describe how you will interpret the results of your changes here.
-For example, in hypothetical terms, if my new/revised map shows ---, it will mean that ---. 
--->
+My updated map will be visible upon running the code. While not significantly changing the data or any model calculations, it will just lead to a more intuitive reading of the map.
